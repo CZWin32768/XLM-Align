@@ -1,6 +1,8 @@
 # XLM-Align
 
-Code and models for the paper **Improving Pretrained Cross-Lingual Language Models via Self-Labeled Word Alignment**
+Code and models for the paper **Improving Pretrained Cross-Lingual Language Models via Self-Labeled Word Alignment**.
+
+**The XLM-Align pretraining code has uploaded to the [unilm](https://github.com/microsoft/unilm/tree/master/infoxlm) repo.**
 
 ## Introduction
 
@@ -72,7 +74,7 @@ XTREME cross-lingual understanding tasks:
 
 ## Pretraining XLM-Align
 
-We have uploaded the pretraining code to the [unilm](https://github.com/microsoft/unilm/tree/master/infoxlm) repo.
+**We have uploaded the pretraining code to the [unilm](https://github.com/microsoft/unilm/tree/master/infoxlm) repo.**
 
 Here is an example for pretraining XLM-Align-base:
 
