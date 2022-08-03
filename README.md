@@ -2,6 +2,8 @@
 
 Code and models for the paper **Improving Pretrained Cross-Lingual Language Models via Self-Labeled Word Alignment**.
 
+**Update**: release the aligner for word alignment on translation pairs. See [this page](https://github.com/CZWin32768/XLM-Align/tree/master/word_aligner).
+
 **The XLM-Align pretraining code has uploaded to the [unilm](https://github.com/microsoft/unilm/tree/master/infoxlm) repo.**
 
 ## Introduction
