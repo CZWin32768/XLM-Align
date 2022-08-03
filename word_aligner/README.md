@@ -2,7 +2,7 @@
 
 An implementation of optimal-transport word aligner proposed in the XLM-Align paper, which is used for word alignment on translation pairs.
 
-The results are shown in the following table. We re-implement the xlm-align word aligner for the huggingface model hub. Our original implementation is based on fairseq, the results are slightly different with the reported ones.
+The results are shown in the following table. We re-implement the xlm-align word aligner for the huggingface model hub. Our original implementation is based on fairseq, so the results are slightly different with the reported ones.
 
 
 | Aligner | Pre-trained Model | de-en | en-fr | en-hi | ro-en |
